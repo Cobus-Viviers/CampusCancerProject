@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cobusviviers.campuscancerproject">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".ActivityMain"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+
+        </activity>
+        <activity android:name=".ActivityColorectum" />
+        <activity android:name=".ActivityProstate" />
+        <activity android:name=".ActivityStomach" />
+        <activity android:name=".ActivityLiver" />
+        <activity android:name=".ActivityEndometrial" />
+        <activity android:name=".ActivityLeukaemia" />
+        <activity android:name=".ActivityThyroid" />
+        <activity android:name=".ActivityMelanoma" />
+        <activity android:name=".ActivityBreast" />
+        <activity android:name=".ActivityLung" />
+        <activity android:name=".ActivitySplash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

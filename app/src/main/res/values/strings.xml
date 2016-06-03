@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BC Against Cancer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_">Activity</string>
+    <string name="title_activity_activity_lung">ActivityLung</string>
+    <string name="thyroid_cancer">Thyroid Cancer</string>
+    <string name="breast_cancer">Breast Cancer</string>
+    <string name="lung_cancer">Lung Cancer</string>
+    <string name="prostate_cancer">Prostate Cancer</string>
+    <string name="stomach_cancer">Stomach Cancer</string>
+    <string name="liver_cancer">Liver Cancer</string>
+    <string name="endometrial_cancer">Endometrial Cancer</string>
+    <string name="leukaemia">Leukaemia</string>
+    <string name="melanoma">Melanoma</string>
+    <string name="facebook">Facebook</string>
+    <string name="donate">Donate</string>
+</resources>
